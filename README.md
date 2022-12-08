@@ -9,7 +9,8 @@ Django provides a few classes that help you manage paginated data:-
   1. Paginator Class
   2. Page Class
 
-![1](https://user-images.githubusercontent.com/84769341/206497578-d157d846-829a-4d56-a6cb-19750362c74e.png)
+
+![1](https://user-images.githubusercontent.com/84769341/206500360-f7b0e337-f8e0-4467-8b91-443ac9728313.png)
 
    
 ## Requirements
@@ -58,5 +59,11 @@ Django==3.4.1\
   python manage.py runserver
 
 ```
+## Snapshots
+![1](https://user-images.githubusercontent.com/84769341/206501178-df75424b-5f40-4c3a-bf0e-197d8dcbbcf4.png)
+![2](https://user-images.githubusercontent.com/84769341/206501610-29196627-1beb-4706-95f0-e2daf3e99f08.png)
+![1](https://user-images.githubusercontent.com/84769341/206500360-f7b0e337-f8e0-4467-8b91-443ac9728313.png)
+![4](https://user-images.githubusercontent.com/84769341/206502209-4069022e-520c-409c-8ce2-e909abb1d9ff.png)
+
 
 
